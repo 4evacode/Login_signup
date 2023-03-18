@@ -18,7 +18,7 @@ body {
 
 .container {
     background-image: linear-gradient(rgba(0, 0, 50, 0.8), rgba(0, 0, 50, 0.8)), url(/images/front.jpg);
-    background-position: center;/
+    background-position: center;
     background-size: cover;
     position: relative;
     width: 100%;
